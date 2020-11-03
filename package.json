@@ -1,0 +1,25 @@
+{
+  "name": "@ewanmellor/babel-preset-theme-ui-sx-prop",
+  "version": "0.0.1",
+  "description": "Preset to use Theme UI's sx prop without the JSX pragma.",
+  "main": "index.js",
+  "author": "Ewan Mellor",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ewanmellor/babel-preset-theme-ui-sx-prop"
+  },
+  "private": false,
+  "keywords": [
+    "theme-ui"
+  ],
+  "dependencies": {
+    "@babel/core": "^7",
+    "@babel/plugin-transform-react-jsx": "^7.8.3",
+    "@emotion/babel-plugin-jsx-pragmatic": "^0.1.5",
+    "@theme-ui/core": "^0.3.1",
+    "babel-plugin-emotion": "^10.0.27",
+    "react": "^16.13"
+  },
+  "devDependencies": {}
+}
