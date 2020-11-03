@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ewanmellor/babel-preset-theme-ui-sx-prop"
+    "url": "git+https://github.com/ewanmellor/babel-preset-theme-ui-sx-prop.git"
   },
   "private": false,
   "keywords": [
